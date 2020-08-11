@@ -1,0 +1,1 @@
+.list{display:flex;align-items:center;justify-content:space-between}.list__title{font-size:24px}.list__bids{padding-right:17px}.list__asks,.list__bids{flex-basis:45%;height:100vh}.list__asks{overflow:auto}@media screen and (max-width:840px){.list__td-hide,.list__th-hide{display:none}}
